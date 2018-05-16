@@ -3,77 +3,77 @@ const contacts: Object[] = [
     name: "Shakira Robel",
     email: "Ashley_Ritchie@hotmail.com",
     phoneNumber: "965-144-6018",
-    image: "http://lorempixel.com/640/480/sports"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Green Crist",
     email: "Rosendo53@hotmail.com",
     phoneNumber: "1-522-714-2638 x44811",
-    image: "http://lorempixel.com/640/480/food"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Yvette Dickinson",
     email: "Yolanda.Abernathy@hotmail.com",
     phoneNumber: "(038) 030-9641 x7086",
-    image: "http://lorempixel.com/640/480/nightlife"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Karley Hackett",
     email: "Icie_Gutmann69@yahoo.com",
     phoneNumber: "(251) 436-6001",
-    image: "http://lorempixel.com/640/480/nightlife"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Mrs. Otha Beahan",
     email: "Brice46@yahoo.com",
     phoneNumber: "005-851-7095 x72027",
-    image: "http://lorempixel.com/640/480/food"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Ignacio Larson",
     email: "Remington.Boyer63@yahoo.com",
     phoneNumber: "1-471-836-5871 x5841",
-    image: "http://lorempixel.com/640/480/technics"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Estel Armstrong",
     email: "Chasity.Metz83@gmail.com",
     phoneNumber: "(247) 305-7427",
-    image: "http://lorempixel.com/640/480/cats"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Citlalli Brown",
     email: "Izabella.Hand21@gmail.com",
     phoneNumber: "475.071.4608 x101",
-    image: "http://lorempixel.com/640/480/transport"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Reginald Kessler",
     email: "Retta.Wolf@gmail.com",
     phoneNumber: "070-610-2661",
-    image: "http://lorempixel.com/640/480/people"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Rosina Schiller",
     email: "Rachelle13@hotmail.com",
     phoneNumber: "869.014.6216 x103",
-    image: "http://lorempixel.com/640/480/transport"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {
     name: "Annabell Kreiger DVM",
     email: "Kamron_Kilback24@gmail.com",
     phoneNumber: "537.485.6536",
-    image: "http://lorempixel.com/640/480/sports"
+    image: "http://via.placeholder.com/350x150"
   },
 
   {

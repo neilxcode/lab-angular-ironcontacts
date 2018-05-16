@@ -1,3 +1,7 @@
+
+<h2>Single Contact</h2>
+
+
 <div>
   <label for="contact-name">Name</label>
   <input type="text" [(ngModel)]="newContact.name">
@@ -13,14 +17,26 @@
 <div>
   <label for="contact-image">Image</label>
   <input type="text" [(ngModel)]="newContact.image">
+  <br>
+
+
+  <button (click)="addContact()" id ="submitButton">Submit New Contact</button>
 </div>
 
-<button (click)="addContact()">Submit New Contact</button>
 
-
-<div *ngFor="let contact of contacts">
-  <img [src]="contact.image">
-  <h2>{{contact.name}}</h2>
-  <h3>{{contact.email}}</h3>
-  <h3>{{contact.phoneNumber}}</h3>
+<div *ngFor="let oneContact of contacts">
+<app-single-contact [oneSingleContact]="oneContact" (contactBeingDeleted)="deleteTheContact($event)"> </app-single-contact>
 </div>
+
+
+<!--<div *ngFor="let contact of contacts">
+  <div class="contactInfo">
+    <img [src]="contact.image">
+    <h2>{{contact.name}}</h2>
+    <h3>{{contact.email}}</h3>
+    <h3>{{contact.phoneNumber}}</h3>
+  </div>
+</div>-->
+
+
+
